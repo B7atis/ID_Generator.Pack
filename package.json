@@ -1,0 +1,8 @@
+{
+  "name": "@b7atis/id_generator.pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:B7atis/ID_Generator.Pack.git",
+  "author": "B7atis",
+  "license": "MIT"
+}
